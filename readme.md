@@ -10,11 +10,11 @@
 
 <ul>
   <li>
-    <a href="https://neat.is/">Neat</a> — exploring how better context can
+    <a href="https://neat.is/">neat</a> — exploring how better context can
     improve AI infrastructure for recruiters.
   </li>
   <li>
-    <a href="https://dcdeniz.github.io/aerial/">Aerial</a> — DIY agent
+    <a href="https://dcdeniz.github.io/aerial/">aerial</a> — DIY agent
     orchestration with fast A2A mailboxes in Rust.
   </li>
 </ul>
