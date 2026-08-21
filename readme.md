@@ -1,9 +1,12 @@
 <h1>Sinan Guckiran</h1>
 
 <hr>
-
 <p>
   cs @ uni of east anglia<br>
+</p>
+
+<p>
+  "until death all defeat is psychological"<br>
 </p>
 
 <p>currently building:</p>
